@@ -1,0 +1,10 @@
+.box-padrao {
+    background-color: rgb(194, 202, 199);
+    width: 500px;
+    color: black;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-style: groove;
+    margin: 20px;
+    box-shadow: 5px 5px 20px black;
+}

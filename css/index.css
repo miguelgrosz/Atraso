@@ -1,0 +1,48 @@
+*{
+    background-color: rgb(70, 68, 68);
+}
+
+
+
+.paragrafo{
+    background-color: rgb(194, 202, 199);
+    border: 5px solid rgb(100, 100, 100);
+    border-top: 10px;
+    border-left: 10px;
+    border-style: double;
+    border-style: groove;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    box-shadow: 5px 5px 10px black
+}
+
+div.bloco{
+    background-color: rgb(194, 202, 199);
+    width: 500px;
+    color: black;
+    border-top: 10px;
+    border-left: 10px;
+    border-style: double;
+    border-style: groove;
+    margin: 20px;
+    box-shadow: 5px 5px 20px 
+}
+
+div.bloco2{
+    background-color: rgb(194, 202, 199);
+    width: 500px;
+    color: black;
+    border-top: 10px;
+    border-left: 10px;
+    border-style: double;
+    border-style: groove;
+    margin: 20px;
+    box-shadow: 5px 5px 20px black;
+    float: right;
+}
+div.bloco2:hover{
+    width: 450px;
+    height: 100px;
+    
+}
